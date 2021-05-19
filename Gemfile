@@ -13,7 +13,7 @@ gem 'devise'
 gem 'html2slim'
 gem 'jquery-rails'
 gem 'pg'
-gem 'puma', '~> 3.11' # the app server
+gem 'puma', '~> 4.3' # the app server
 gem 'rails', '~> 5.2.1'
 gem 'sass-rails', '~> 5.0'
 gem 'slim-rails'
